@@ -10,7 +10,7 @@ The purpose of the repository is to provide an idea of how a Gatsby project is s
 
 ### Prerequisites
 
-- Node (see [.nvmrc](./.nvmrc) for version)
+- Node (see [.nvmrc](./.nvmrc) for version) 
 
 ### Run the project
 
